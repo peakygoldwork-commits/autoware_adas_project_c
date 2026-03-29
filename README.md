@@ -98,3 +98,4 @@ If you wish to use Autoware.AI, the previous version of Autoware based on ROS 1,
 - [CI metrics](https://autowarefoundation.github.io/autoware-ci-metrics/)
 # autoware_adas_project_cpp
 # autoware_adas_project_c
+# AEB_adas_project_cpp
